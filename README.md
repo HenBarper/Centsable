@@ -25,7 +25,6 @@ Shadi Shwiyat - Shadi took on the major responsibility of security and integrati
 
 Rob Farley                  | Shadi Shwiyat                  | Tayler Coon                  | Sloane Markland                  | Ben Harper
 -------------------------- | ------------------------- | ------------------------- | ------------------------- | -------------------------
-![Rob](./pictures/rob.jpg) | ![Shadi](./pictures/shadi.jpg) | ![Tayler](./pictures/shadi.jpg) | ![Sloane](./pictures/shadi.jpg) | ![Ben](./pictures/shadi.jpg)
 [Github](https://github.com/Nomad-Rob) - [LinkedIn](https://www.linkedin.com/in/robertfarley89/) | [Github](https://github.com/Shadi-Shwiyat) - [LinkedIn](https://www.linkedin.com/in/shadi-the-programmer/) | [Github](https://github.com/tayler-made-code) - [LinkedIn](https://www.linkedin.com/in/taylercoon/) | [Github](https://github.com/sloanemarkland) - [LinkedIn](https://www.linkedin.com/in/sloanemarkland/) | [Github](https://github.com/henbarper) - [LinkedIn](https://www.linkedin.com/in/ben-harper-webdev/)
 
 ## Visit Centsable!
