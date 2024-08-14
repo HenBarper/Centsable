@@ -1,4 +1,4 @@
-![Login page for Centsable.app, with email input and password input on the left, and a dynamic carousel on the right side of the page with scrolling charities you can support through using the app.](https://cdn.discordapp.com/attachments/1260994750912266301/1271242030575648788/image.png?ex=66b69fe6&is=66b54e66&hm=0f5ff685c765eec44c7f1bb177f289bf3cbd8926a706afdb566f9dbba2309d8c&)
+[Demo Video](https://youtu.be/hA5d4pxhGPg)
 # Centsable
 
 ## Description
